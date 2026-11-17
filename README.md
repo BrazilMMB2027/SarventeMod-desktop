@@ -1,8 +1,8 @@
-# Dash Desktop
+# SarventeMod Desktop
 
-Dash is a mod of TurboWarp and other mods that adds a JSON category, console mode, new blocks, extensions, customization, and other features.
+SarventeMod is a mod of Dash and other mods that adds a more features
 
-If you're looking for downloads, head to: https://dashblocks.org/desktop/
+If you're looking for downloads, head to: https://sarventemod.org/desktop/
 
 Licensed under the GPLv3.0. See LICENSE for more information.
 
@@ -17,7 +17,7 @@ The website source code is in the `docs` folder.
 We use submodules, so clone using:
 
 ```bash
-git clone --recursive https://github.com/DashBlocks/desktop dash-desktop
+git clone --recursive https://github.com/BrazilMMB2027/desktop SarventeMod-desktop
 ```
 
 or run this after cloning:
